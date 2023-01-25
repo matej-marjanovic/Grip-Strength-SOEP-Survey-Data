@@ -1,0 +1,226 @@
+[
+    {
+      "Gender": "Female",
+      "Age": "17–19",
+      "Mean HGS": 31.5,
+      "Age-group-specific SD": 6.2,
+      "P50": 31.4,
+      "N": 526
+    },
+    {
+      "Gender": "Female",
+      "Age": "20–24",
+      "Mean HGS": 32.5,
+      "Age-group-specific SD": 5.4,
+      "P50": 32,
+      "N": 799
+    },
+    {
+      "Gender": "Female",
+      "Age": "25–29",
+      "Mean HGS": 33.6,
+      "Age-group-specific SD": 5.6,
+      "P50": 33.5,
+      "N": 809
+    },
+    {
+      "Gender": "Female",
+      "Age": "30–34",
+      "Mean HGS": 33.3,
+      "Age-group-specific SD": 5.8,
+      "P50": 33,
+      "N": 942
+    },
+    {
+      "Gender": "Female",
+      "Age": "35–39",
+      "Mean HGS": 34.2,
+      "Age-group-specific SD": 6.2,
+      "P50": 34,
+      "N": 1144
+    },
+    {
+      "Gender": "Female",
+      "Age": "40–44",
+      "Mean HGS": 34.5,
+      "Age-group-specific SD": 6.3,
+      "P50": 34.5,
+      "N": 1357
+    },
+    {
+      "Gender": "Female",
+      "Age": "45–49",
+      "Mean HGS": 33.4,
+      "Age-group-specific SD": 6.1,
+      "P50": 33,
+      "N": 1372
+    },
+    {
+      "Gender": "Female",
+      "Age": "50–54",
+      "Mean HGS": 32.2,
+      "Age-group-specific SD": 5.9,
+      "P50": 32,
+      "N": 1291
+    },
+    {
+      "Gender": "Female",
+      "Age": "55–59",
+      "Mean HGS": 30,
+      "Age-group-specific SD": 5.5,
+      "P50": 30,
+      "N": 1092
+    },
+    {
+      "Gender": "Female",
+      "Age": "60–64",
+      "Mean HGS": 29,
+      "Age-group-specific SD": 5.3,
+      "P50": 29,
+      "N": 1004
+    },
+    {
+      "Gender": "Female",
+      "Age": "65–69",
+      "Mean HGS": 27.6,
+      "Age-group-specific SD": 5.2,
+      "P50": 28,
+      "N": 947
+    },
+    {
+      "Gender": "Female",
+      "Age": "70–74",
+      "Mean HGS": 26,
+      "Age-group-specific SD": 4.9,
+      "P50": 26,
+      "N": 895
+    },
+    {
+      "Gender": "Female",
+      "Age": "75–79",
+      "Mean HGS": 24.2,
+      "Age-group-specific SD": 4.5,
+      "P50": 24,
+      "N": 522
+    },
+    {
+      "Gender": "Female",
+      "Age": "80–90",
+      "Mean HGS": 21.4,
+      "Age-group-specific SD": 4.1,
+      "P50": 21,
+      "N": 420
+    },
+    {
+      "Gender": "Male",
+      "Age": "17–19",
+      "Mean HGS": 48.3,
+      "Age-group-specific SD": 9.6,
+      "P50": 48.5,
+      "N": 538
+    },
+    {
+      "Gender": "Male",
+      "Age": "20–24",
+      "Mean HGS": 50.7,
+      "Age-group-specific SD": 8.2,
+      "P50": 50.5,
+      "N": 782
+    },
+    {
+      "Gender": "Male",
+      "Age": "25–29",
+      "Mean HGS": 52.4,
+      "Age-group-specific SD": 8.3,
+      "P50": 52,
+      "N": 710
+    },
+    {
+      "Gender": "Male",
+      "Age": "30–34",
+      "Mean HGS": 53.6,
+      "Age-group-specific SD": 8.2,
+      "P50": 53,
+      "N": 730
+    },
+    {
+      "Gender": "Male",
+      "Age": "35–39",
+      "Mean HGS": 53.4,
+      "Age-group-specific SD": 9.8,
+      "P50": 52.5,
+      "N": 924
+    },
+    {
+      "Gender": "Male",
+      "Age": "40–44",
+      "Mean HGS": 53.8,
+      "Age-group-specific SD": 9.3,
+      "P50": 54,
+      "N": 1172
+    },
+    {
+      "Gender": "Male",
+      "Age": "45–49",
+      "Mean HGS": 52.9,
+      "Age-group-specific SD": 8.4,
+      "P50": 53,
+      "N": 1294
+    },
+    {
+      "Gender": "Male",
+      "Age": "50–54",
+      "Mean HGS": 50.4,
+      "Age-group-specific SD": 8.4,
+      "P50": 50.5,
+      "N": 1189
+    },
+    {
+      "Gender": "Male",
+      "Age": "55–59",
+      "Mean HGS": 49.1,
+      "Age-group-specific SD": 8.5,
+      "P50": 49,
+      "N": 1010
+    },
+    {
+      "Gender": "Male",
+      "Age": "60–64",
+      "Mean HGS": 46.3,
+      "Age-group-specific SD": 8.4,
+      "P50": 46.5,
+      "N": 950
+    },
+    {
+      "Gender": "Male",
+      "Age": "65–69",
+      "Mean HGS": 44.1,
+      "Age-group-specific SD": 7.3,
+      "P50": 44,
+      "N": 1019
+    },
+    {
+      "Gender": "Male",
+      "Age": "70–74",
+      "Mean HGS": 41.7,
+      "Age-group-specific SD": 7.6,
+      "P50": 42,
+      "N": 915
+    },
+    {
+      "Gender": "Male",
+      "Age": "75–79",
+      "Mean HGS": 37.8,
+      "Age-group-specific SD": 7.9,
+      "P50": 38,
+      "N": 582
+    },
+    {
+      "Gender": "Male",
+      "Age": "80–90",
+      "Mean HGS": 33.2,
+      "Age-group-specific SD": 7.5,
+      "P50": 33,
+      "N": 350
+    }
+  ]
